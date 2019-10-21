@@ -7,5 +7,12 @@ Libraries used are:
 - EclipseLink for source generation
 - Jersey for Bean Validation
 
-This works with EclipseLink 2.7.4 & Jersey 2.27
-It doesn't work with EclipseLink 2.7.4 & Jersey 2.29.1
+*This works with*
+
+- EclipseLink 2.7.4
+- Jersey 2.27
+
+*It doesn't work with*
+
+- EclipseLink 2.7.4
+- Jersey 2.29.1
